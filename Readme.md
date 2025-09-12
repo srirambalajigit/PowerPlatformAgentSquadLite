@@ -1,6 +1,12 @@
 A group of agents which assist during Power Platform project development life cycle. 
 The squad includes: 
-User Story agent, Test Case Agent, Playwright automated Test case agent, Solution Design Agent, Dynamics 365 Plugins and Workflows Agent and PowerApps/Dynamics 365 Client Script agent and PCF Controls Agent.
+1. User Story agent
+2. Test Case Agent
+3. Playwright automated Test case agent
+4. Solution Design Agent
+5.Dynamics 365 Plugins and Workflows Agent 
+6. PowerApps/Dynamics 365 Client Script agent
+7. PCF Controls Agen
 
-Check out the youtube video for overview of PowerPlatformAgentSquadLite
+This repo contains sample solution files for Youtube video **Build Power Platform Agent Squad Lite with Copilot Studio**
 https://www.youtube.com/watch?v=O1jb5aFXjHQ
